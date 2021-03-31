@@ -1,1 +1,2 @@
-# Global-Car-Safety-Organisation
+# collisionAlgorithm
+Algorithm to detect collision between two objects
